@@ -1,6 +1,4 @@
----
-description: This repo is used to record leetcode practice
----
-
 # Preface
+
+This repo is used to record leetcode practice
 
