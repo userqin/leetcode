@@ -4,5 +4,5 @@
 
 ## Array
 
-* [1. Two Sum](array/untitled.md)
+* [1. Two Sum](array/1.-two-sum.md)
 
