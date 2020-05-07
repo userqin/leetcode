@@ -2,6 +2,7 @@
 
 * [Preface](README.md)
 * [Python basics](python-basics.md)
+* [Reverse a list:  three methods](reverse-a-list-three-methods.md)
 
 ## Array
 
