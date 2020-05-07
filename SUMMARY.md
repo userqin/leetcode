@@ -18,4 +18,5 @@
 ## Linked List
 
 * [203. Remove Linked List Elements](linked-list/203.-remove-linked-list-elements.md)
+* [Hashmap](hashmap.md)
 
