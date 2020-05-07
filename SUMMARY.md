@@ -6,7 +6,9 @@
 
 * [1. Two Sum](array/1_two_sum.md)
 * [9. Palindrome Number](array/9.-palindrome-number.md)
+* [26. Remove Duplicates from Sorted Array](array/26.-remove-duplicates-from-sorted-array.md)
 * [27. Remove Element](array/27.-remove-element.md)
+* [283. Move Zeroes](array/283.-move-zeroes.md)
 * [1431. Kids With the Greatest Number of Candies](array/1431.-kids-with-the-greatest-number-of-candies.md)
 
 ## STACK
