@@ -62,7 +62,7 @@ x.remove(0)
 
 ### String related
 
-### split a string
+###  Split a string
 
 ```python
 string = "dog cat cat dog"
@@ -70,5 +70,10 @@ words = string.split(' ')
  # the words now is: ['dog', 'cat', 'cat', 'dog']
 ```
 
+### Convert a list to a string
 
+```text
+list = [1, 2, 3]
+', '.join(list)
+```
 
