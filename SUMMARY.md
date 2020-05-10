@@ -5,6 +5,7 @@
 * [Reverse a list:  three methods](reverse-a-list-three-methods.md)
 * [Python slice operations](python-slice-operations.md)
 * [Binary search notes](binary-search-notes.md)
+* [Template](template.md)
 
 ## Array
 
@@ -21,6 +22,7 @@
 
 ## Linked List
 
+* [21. Merge Two Sorted Lists](linked-list/21.-merge-two-sorted-lists.md)
 * [203. Remove Linked List Elements](linked-list/203.-remove-linked-list-elements.md)
 
 ## Hashmap <a id="hashmap-1"></a>
