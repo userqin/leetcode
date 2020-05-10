@@ -73,7 +73,6 @@ words = string.split(' ')
 ### Convert a list to a string
 
 ```text
-list = [1, 2, 3]
-', '.join(list)
+
 ```
 

@@ -4,6 +4,7 @@
 * [Python basics](python-basics.md)
 * [Reverse a list:  three methods](reverse-a-list-three-methods.md)
 * [Python slice operations](python-slice-operations.md)
+* [Binary search notes](binary-search-notes.md)
 
 ## Array
 
@@ -26,4 +27,12 @@
 
 * [Untitled](hashmap-1/untitled/README.md)
   * [Hashmap](hashmap-1/untitled/hashmap.md)
+
+## Binary search
+
+* [1095. Find in Mountain Array](binary-search/1095.-find-in-mountain-array.md)
+
+## Binary tree
+
+* [Untitled](binary-tree/untitled.md)
 
