@@ -16,6 +16,15 @@
 * [283. Move Zeroes](array/283.-move-zeroes.md)
 * [1431. Kids With the Greatest Number of Candies](array/1431.-kids-with-the-greatest-number-of-candies.md)
 
+## Two pointers
+
+* [125. Valid Palindrome](two-pointers/untitled.md)
+
+## Binary search
+
+* [162. Find Peak Element](binary-search/162.-find-peak-element.md)
+* [1095. Find in Mountain Array](binary-search/1095.-find-in-mountain-array.md)
+
 ## STACK
 
 * [20. Valid Parentheses](stack/20.-valid-parentheses.md)
@@ -30,15 +39,7 @@
 * [Untitled](hashmap-1/untitled/README.md)
   * [Hashmap](hashmap-1/untitled/hashmap.md)
 
-## Binary search
-
-* [1095. Find in Mountain Array](binary-search/1095.-find-in-mountain-array.md)
-
 ## Binary tree
 
 * [Untitled](binary-tree/untitled.md)
-
-## Two pointers
-
-* [125. Valid Palindrome](two-pointers/untitled.md)
 
