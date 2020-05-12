@@ -41,8 +41,8 @@
 
 ## Binary tree
 
-* [101. Symmetric Tree \(easy\)](binary-tree/untitled.md)
-* [101. Symmetric Tree](binary-tree/101.-symmetric-tree.md)
+* [101. Symmetric Tree \(easy\)](binary-tree/101.-symmetric-tree.md)
+* [110. Balanced Binary Tree \(easy\)](binary-tree/untitled.md)
 
 ## Tree
 

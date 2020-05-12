@@ -1,2 +1,2 @@
-# 101. Symmetric Tree \(easy\)
+# 110. Balanced Binary Tree \(easy\)
 
