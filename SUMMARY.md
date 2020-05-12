@@ -41,5 +41,9 @@
 
 ## Binary tree
 
-* [Untitled](binary-tree/untitled.md)
+* [101. Symmetric Tree \(easy\)](binary-tree/untitled.md)
+
+## Tree
+
+* [101. Symmetric Tree](tree/101.-symmetric-tree.md)
 
