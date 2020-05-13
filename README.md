@@ -1,6 +1,8 @@
-# Preface
+---
+description: This site is used to record leetcode practice.
+---
 
-This repo is used to record leetcode practice.
+# Preface
 
 
 
