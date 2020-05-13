@@ -48,6 +48,8 @@
 * [110. Balanced Binary Tree \(easy\)](binary-tree/untitled.md)
 * [111. Minimum Depth of Binary Tree \(easy\)](binary-tree/111.-minimum-depth-of-binary-tree.md)
 * [112. Path Sum \(easy\)](binary-tree/112.-path-sum-easy.md)
+* [589. N-ary Tree Preorder Traversal \(E\)](binary-tree/589.-n-ary-tree-preorder-traversal-e.md)
+* [590. N-ary Tree Postorder Traversal \(E\)](binary-tree/590.-n-ary-tree-postorder-traversal-e.md)
 * [606. Construct String from Binary Tree \(E\)](binary-tree/606.-construct-string-from-binary-tree-e.md)
 * [637. Average of Levels in Binary Tree \(E\)](binary-tree/637.-average-of-levels-in-binary-tree-e.md)
 
