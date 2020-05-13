@@ -45,7 +45,7 @@
 * [104. Maximum Depth of Binary Tree \(easy\)](binary-tree/104.-maximum-depth-of-binary-tree-easy.md)
 * [108. Convert Sorted Array to Binary Search Tree （easy\)](binary-tree/108.-convert-sorted-array-to-binary-search-tree-easy.md)
 * [110. Balanced Binary Tree \(easy\)](binary-tree/untitled.md)
-* [111. Minimum Depth of Binary Tree](binary-tree/111.-minimum-depth-of-binary-tree.md)
+* [111. Minimum Depth of Binary Tree \(easy\)](binary-tree/111.-minimum-depth-of-binary-tree.md)
 * [112. Path Sum \(easy\)](binary-tree/112.-path-sum-easy.md)
 
 ## Tree
