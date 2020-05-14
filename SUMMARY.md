@@ -36,11 +36,12 @@
 
 ## Hashmap <a id="hashmap-1"></a>
 
-* [Untitled](hashmap-1/untitled/README.md)
-  * [Hashmap](hashmap-1/untitled/hashmap.md)
+* [Hashmap](hashmap-1/hashmap.md)
+* [Untitled](hashmap-1/untitled.md)
 
 ## Binary tree
 
+* [94. Binary Tree Inorder Traversal \(M\)](binary-tree/94.-binary-tree-inorder-traversal-m.md)
 * [101. Symmetric Tree \(easy\)](binary-tree/101.-symmetric-tree.md)
 * [102. Binary Tree Level Order Traversal \(M\)](binary-tree/102.-binary-tree-level-order-traversal-m.md)
 * [104. Maximum Depth of Binary Tree \(easy\)](binary-tree/104.-maximum-depth-of-binary-tree-easy.md)
@@ -48,6 +49,8 @@
 * [110. Balanced Binary Tree \(easy\)](binary-tree/untitled.md)
 * [111. Minimum Depth of Binary Tree \(easy\)](binary-tree/111.-minimum-depth-of-binary-tree.md)
 * [112. Path Sum \(easy\)](binary-tree/112.-path-sum-easy.md)
+* [144. Binary Tree Preorder Traversal \(M\)](binary-tree/144.-binary-tree-preorder-traversal-m.md)
+* [543. Diameter of Binary Tree](binary-tree/untitled-1.md)
 * [589. N-ary Tree Preorder Traversal \(E\)](binary-tree/589.-n-ary-tree-preorder-traversal-e.md)
 * [590. N-ary Tree Postorder Traversal \(E\)](binary-tree/590.-n-ary-tree-postorder-traversal-e.md)
 * [606. Construct String from Binary Tree \(E\)](binary-tree/606.-construct-string-from-binary-tree-e.md)

@@ -1,4 +1,4 @@
-# 589. N-ary Tree Preorder Traversal \(E\)
+# Hashmap
 
 ### Problem link
 
