@@ -5,19 +5,27 @@
 * [Reverse a list:  three methods](reverse-a-list-three-methods.md)
 * [Python slice operations](python-slice-operations.md)
 * [Binary search notes](binary-search-notes.md)
+* [Sort notes](sort-notes.md)
 * [Template](template.md)
 
 ## Array
 
 * [1. Two Sum](array/1_two_sum.md)
+* [15. 3Sum \(M\)](array/15.-3sum-m.md)
 * [9. Palindrome Number](array/9.-palindrome-number.md)
+* [18. 4Sum \(M\)](array/18.-4sum-m.md)
 * [26. Remove Duplicates from Sorted Array](array/26.-remove-duplicates-from-sorted-array.md)
 * [27. Remove Element](array/27.-remove-element.md)
+* [56. Merge Intervals](array/56.-merge-intervals.md)
+* [88. Merge Sorted Array](array/88.-merge-sorted-array.md)
 * [283. Move Zeroes](array/283.-move-zeroes.md)
+* [763. Partition Labels](array/763.-partition-labels.md)
+* [986. Interval List Intersections](array/986.-interval-list-intersections.md)
 * [1431. Kids With the Greatest Number of Candies](array/1431.-kids-with-the-greatest-number-of-candies.md)
 
 ## Two pointers
 
+* [3. Longest Substring Without Repeating Characters](two-pointers/3.-longest-substring-without-repeating-characters.md)
 * [125. Valid Palindrome](two-pointers/untitled.md)
 
 ## Binary search
