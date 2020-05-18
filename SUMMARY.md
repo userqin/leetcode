@@ -58,6 +58,7 @@
 * [111. Minimum Depth of Binary Tree \(easy\)](binary-tree/111.-minimum-depth-of-binary-tree.md)
 * [112. Path Sum \(easy\)](binary-tree/112.-path-sum-easy.md)
 * [144. Binary Tree Preorder Traversal \(M\)](binary-tree/144.-binary-tree-preorder-traversal-m.md)
+* [530. Minimum Absolute Difference in BST \(E\)](binary-tree/530.-minimum-absolute-difference-in-bst-e.md)
 * [543. Diameter of Binary Tree](binary-tree/untitled-1.md)
 * [589. N-ary Tree Preorder Traversal \(E\)](binary-tree/589.-n-ary-tree-preorder-traversal-e.md)
 * [590. N-ary Tree Postorder Traversal \(E\)](binary-tree/590.-n-ary-tree-postorder-traversal-e.md)
