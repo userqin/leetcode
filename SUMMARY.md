@@ -39,6 +39,7 @@
 
 ## Linked List
 
+* [2. Add Two Numbers](linked-list/2.-add-two-numbers.md)
 * [21. Merge Two Sorted Lists](linked-list/21.-merge-two-sorted-lists.md)
 * [203. Remove Linked List Elements](linked-list/203.-remove-linked-list-elements.md)
 
