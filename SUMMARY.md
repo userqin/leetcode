@@ -16,6 +16,7 @@
 * [18. 4Sum \(M\)](array/18.-4sum-m.md)
 * [26. Remove Duplicates from Sorted Array](array/26.-remove-duplicates-from-sorted-array.md)
 * [27. Remove Element](array/27.-remove-element.md)
+* [54. Spiral Matrix \(M\)](array/54.-spiral-matrix-m.md)
 * [56. Merge Intervals](array/56.-merge-intervals.md)
 * [88. Merge Sorted Array](array/88.-merge-sorted-array.md)
 * [283. Move Zeroes](array/283.-move-zeroes.md)
