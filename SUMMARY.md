@@ -21,6 +21,7 @@
 * [283. Move Zeroes](array/283.-move-zeroes.md)
 * [763. Partition Labels](array/763.-partition-labels.md)
 * [986. Interval List Intersections](array/986.-interval-list-intersections.md)
+* [1010. Pairs of Songs With Total Durations Divisible by 60 \(E\)](array/1010.-pairs-of-songs-with-total-durations-divisible-by-60-e.md)
 * [1252. Cells with Odd Values in a Matrix](array/1252.-cells-with-odd-values-in-a-matrix.md)
 * [1431. Kids With the Greatest Number of Candies](array/1431.-kids-with-the-greatest-number-of-candies.md)
 
