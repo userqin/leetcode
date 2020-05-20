@@ -36,7 +36,6 @@
 
 ## Two pointers
 
-* [49. Group Anagrams](two-pointers/49.-group-anagrams.md)
 * [3. Longest Substring Without Repeating Characters](two-pointers/3.-longest-substring-without-repeating-characters.md)
 * [Untitled](two-pointers/untitled-2.md)
 * [125. Valid Palindrome](two-pointers/untitled.md)
@@ -58,8 +57,13 @@
 * [2. Add Two Numbers](linked-list/2.-add-two-numbers.md)
 * [21. Merge Two Sorted Lists](linked-list/21.-merge-two-sorted-lists.md)
 * [19. Remove Nth Node From End of List \(E\)](linked-list/19.-remove-nth-node-from-end-of-list-e.md)
+* [83. Remove Duplicates from Sorted List](linked-list/83.-remove-duplicates-from-sorted-list.md)
 * [203. Remove Linked List Elements](linked-list/203.-remove-linked-list-elements.md)
 * [206. Reverse Linked List \(E\)](linked-list/206.-reverse-linked-list-e.md)
+* [Untitled](linked-list/untitled-5.md)
+* [Untitled](linked-list/untitled-4.md)
+* [Untitled](linked-list/untitled-3.md)
+* [Untitled](linked-list/untitled-2.md)
 * [Untitled](linked-list/untitled.md)
 
 ## Hashmap <a id="hashmap-1"></a>
@@ -92,8 +96,9 @@
 
 ## Tree
 
-## String
+## Strings <a id="string"></a>
 
+* [49. Group Anagrams](string/49.-group-anagrams.md)
 * [415. Add Strings \(E\)](string/415.-add-strings-e.md)
 * [Untitled](string/untitled-2.md)
 * [Untitled](string/untitled.md)
