@@ -55,16 +55,17 @@ class Solution(object):
         :rtype: int
         """
         if not root:
-            return None
-        q = [(root, 0)]
+            return 0
+        depth = 0    
+        q = [root]
         while q:
             for i in range(len(q)):
-                node, depth = q.pop()
-                if node.children:
-                    q.append((node.children, depth + 1))
-                    
-        
-        
+                node = q.pop(0)
+                for node in node.children:
+                    q.append(node.children)
+            depth += 1
+
+        return depth
 ```
 
 ### References

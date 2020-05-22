@@ -16,7 +16,9 @@
 * [18. 4Sum \(M\)](array/18.-4sum-m.md)
 * [26. Remove Duplicates from Sorted Array](array/26.-remove-duplicates-from-sorted-array.md)
 * [27. Remove Element](array/27.-remove-element.md)
+* [Untitled](array/untitled-5.md)
 * [54. Spiral Matrix \(M\)](array/54.-spiral-matrix-m.md)
+* [Untitled](array/untitled-4.md)
 * [56. Merge Intervals](array/56.-merge-intervals.md)
 * [88. Merge Sorted Array](array/88.-merge-sorted-array.md)
 * [Untitled](array/untitled-3.md)
@@ -42,8 +44,13 @@
 
 ## Binary search
 
+* [Untitled](binary-search/untitled-2.md)
 * [Untitled](binary-search/untitled-1.md)
 * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
+* [Untitled](binary-search/untitled-3.md)
+* [Untitled](binary-search/untitled-4.md)
+* [Untitled](binary-search/untitled-5.md)
+* [Untitled](binary-search/untitled-6.md)
 * [1095. Find in Mountain Array](binary-search/1095.-find-in-mountain-array.md)
 * [Untitled](binary-search/untitled.md)
 
@@ -58,7 +65,9 @@
 * [21. Merge Two Sorted Lists](linked-list/21.-merge-two-sorted-lists.md)
 * [82. Remove Duplicates from Sorted List II \(M\)](linked-list/untitled-4-1.md)
 * [83. Remove Duplicates from Sorted List \(E\)](linked-list/83.-remove-duplicates-from-sorted-list.md)
+* [Untitled](linked-list/untitled-6.md)
 * [148. Sort List \(M\)](linked-list/untitled-4.md)
+* [Untitled](linked-list/untitled-1.md)
 * [203. Remove Linked List Elements](linked-list/203.-remove-linked-list-elements.md)
 * [206. Reverse Linked List \(E\)](linked-list/206.-reverse-linked-list-e.md)
 * [237. Delete Node in a Linked List \(E\)](linked-list/untitled-5.md)
@@ -73,6 +82,7 @@
 
 ## Binary tree
 
+* [Untitled](binary-tree/untitled-5.md)
 * [94. Binary Tree Inorder Traversal \(M\)](binary-tree/94.-binary-tree-inorder-traversal-m.md)
 * [101. Symmetric Tree \(easy\)](binary-tree/101.-symmetric-tree.md)
 * [102. Binary Tree Level Order Traversal \(M\)](binary-tree/102.-binary-tree-level-order-traversal-m.md)
@@ -86,10 +96,10 @@
 * [Untitled](binary-tree/untitled-3.md)
 * [530. Minimum Absolute Difference in BST \(E\)](binary-tree/530.-minimum-absolute-difference-in-bst-e.md)
 * [543. Diameter of Binary Tree](binary-tree/untitled-1.md)
+* [559. Maximum Depth of N-ary Tree](binary-tree/untitled-4.md)
 * [589. N-ary Tree Preorder Traversal \(E\)](binary-tree/589.-n-ary-tree-preorder-traversal-e.md)
 * [590. N-ary Tree Postorder Traversal \(E\)](binary-tree/590.-n-ary-tree-postorder-traversal-e.md)
 * [606. Construct String from Binary Tree \(E\)](binary-tree/606.-construct-string-from-binary-tree-e.md)
-* [559. Maximum Depth of N-ary Tree](binary-tree/untitled-4.md)
 * [617. Merge Two Binary Trees \(E\)](binary-tree/617.-merge-two-binary-trees-e.md)
 * [637. Average of Levels in Binary Tree \(E\)](binary-tree/637.-average-of-levels-in-binary-tree-e.md)
 * [993. Cousins in Binary Tree](binary-tree/993.-cousins-in-binary-tree.md)
