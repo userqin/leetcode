@@ -6,6 +6,7 @@
 * [Python slice operations](python-slice-operations.md)
 * [Binary search notes](binary-search-notes.md)
 * [Sort notes](sort-notes.md)
+* [Problems in python](problems-in-python.md)
 * [Template](template.md)
 
 ## Array
@@ -93,6 +94,7 @@
 
 * [Untitled](binary-tree/untitled-5.md)
 * [94. Binary Tree Inorder Traversal \(M\)](binary-tree/94.-binary-tree-inorder-traversal-m.md)
+* [98. Validate Binary Search Tree \(M\)](binary-tree/98.-validate-binary-search-tree-m.md)
 * [101. Symmetric Tree \(easy\)](binary-tree/101.-symmetric-tree.md)
 * [102. Binary Tree Level Order Traversal \(M\)](binary-tree/102.-binary-tree-level-order-traversal-m.md)
 * [103. Binary Tree Zigzag Level Order Traversal \(M\)](binary-tree/untitled-2.md)
