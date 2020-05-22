@@ -61,8 +61,8 @@ class Solution(object):
         while q:
             for i in range(len(q)):
                 node = q.pop(0)
-                for node in node.children:
-                    q.append(node.children)
+                for child in node.children:
+                    q.append(child)
             depth += 1
 
         return depth
