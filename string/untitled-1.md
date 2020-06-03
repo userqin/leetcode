@@ -37,6 +37,10 @@ Output: "Qedo1ct-eeLg=ntse-T!"
 
 **Method 1**: two pointers
 
+**Method 2**: one pointer: use one pointer `p` to locate the letters from the end of the string and swap with the one in the beginning of the string
+
+**Method 3**: Save all the letters first, and then traverse the string again. If a position of the original string is a letter, then replace it with the last element in the letter list, otherwise it will be the original character.
+
 ### Solution
 
 {% tabs %}
@@ -64,27 +68,50 @@ class Solution(object):
 ```
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="extra space" %}
 ```python
 class Solution(object):
     def reverseOnlyLetters(self, S):
         """
         :type S: str
         :rtype: str
+        :2020-06-02
         """
+        letters = []
+        for l in S:
+            if l.isalpha():
+                letters.append(l)
+        ans = ''
+        for i in range(len(S)):
+            if S[i].isalpha():
+                ans += letters.pop()
+            else:
+                ans += S[i]
+        return ans
         
 ```
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="One pointer" %}
 ```python
 class Solution(object):
     def reverseOnlyLetters(self, S):
         """
         :type S: str
         :rtype: str
+        #2020-06-02
         """
-        
+        p = len(S) - 1
+        ans = ''
+        for i in range(len(S)):
+            if S[i].isalpha():
+                while not S[p].isalpha():
+                    p -= 1
+                ans += S[p]
+                p -= 1
+            else:
+                ans += S[i]
+        return ans
 ```
 {% endtab %}
 
