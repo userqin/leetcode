@@ -7,6 +7,7 @@
 * [Binary search notes](binary-search-notes.md)
 * [Sort notes](sort-notes.md)
 * [Problems in python](problems-in-python.md)
+* [Interesting problems](interesting-problems.md)
 * [Template](template.md)
 
 ## Array
@@ -131,11 +132,11 @@
 
 * [49. Group Anagrams](string/49.-group-anagrams.md)
 * [415. Add Strings \(E\)](string/415.-add-strings-e.md)
+* [443. String Compression \(E\)](string/untitled-16.md)
 * [657. Robot Return to Origin \(E\)](string/untitled-2.md)
 * [804. Unique Morse Code Words \(E\)](string/untitled-3.md)
 * [859. Buddy Strings \(E\)](string/untitled.md)
 * [917. Reverse Only Letters \(E\)](string/untitled-1.md)
-* [Untitled](string/untitled-16.md)
 * [Untitled](string/untitled-15.md)
 * [Untitled](string/untitled-14.md)
 * [Untitled](string/untitled-13.md)

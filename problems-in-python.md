@@ -2,13 +2,5 @@
 
 `d = d.fromkeys('abcdefg',0)`
 
-`d = d.fromkeys('abcdefg',0)`
-
-```text
-max function always return 1
-```
-
-```text
-
-```
+`max() function always return one, be careful for a = [3,3,2,1] the max(a) corresponds to two indices.`
 
