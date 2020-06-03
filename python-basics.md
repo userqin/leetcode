@@ -73,6 +73,28 @@ words = string.split(' ')
 ### Convert a list to a string
 
 ```text
-
+s = ['a', 'b', 'c']
+ss = ''.join(s)
 ```
+
+## Extract a column from a simple two-dimensional array
+
+`[matrix[i][column] for i in range(len(matrix))]`
+
+```python
+A = [[1,2,3,4],
+     [5,6,7,8],
+     [10,11,12,13]]
+
+def column(matrix, col_i):
+     return [row[col_i] for row in matrix]
+     
+#exmaple: extract the second column:
+column(A, 1)
+
+#we get:
+[2,6,11]
+```
+
+
 
