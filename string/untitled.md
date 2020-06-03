@@ -54,7 +54,7 @@ Output: false
 * If two strings are identical, if there are at least two letters are identical, then `True`
 * If the lengths of two stings are the same and only two letters are not the same, record these two letters' position. If switching the positions of these two letters
 * if two strings have more than 2 different characters, we can never get the same string by one swap, thus return `False`
-* if only two letters are different while traversing two strings,  let's swap and check if swapping can get the same result.
+* if only two letters are different from `string_a` to `string_b` while traversing two strings,  let's swap twice and check if two swapping can make these two strings to be same. If yes, return `True`, otherwise return `False`
 
 ### Solution
 
