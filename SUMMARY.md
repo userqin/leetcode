@@ -46,6 +46,7 @@
 
 ## Two pointers
 
+* [Problems use two pointers](two-pointers/problems-use-two-pointers.md)
 * [3. Longest Substring Without Repeating Characters](two-pointers/3.-longest-substring-without-repeating-characters.md)
 * [Untitled](two-pointers/untitled-2.md)
 * [125. Valid Palindrome](two-pointers/untitled.md)
