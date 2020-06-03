@@ -33,7 +33,7 @@
 * [Untitled](array/untitled-12.md)
 * [Untitled](array/untitled-9.md)
 * [763. Partition Labels](array/763.-partition-labels.md)
-* [Untitled](array/untitled-1.md)
+* [905. Sort Array By Parity](array/untitled-1.md)
 * [986. Interval List Intersections](array/986.-interval-list-intersections/README.md)
   * [Untitled](array/986.-interval-list-intersections/untitled.md)
 * [1010. Pairs of Songs With Total Durations Divisible by 60 \(E\)](array/1010.-pairs-of-songs-with-total-durations-divisible-by-60-e.md)
