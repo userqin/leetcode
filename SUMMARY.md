@@ -167,3 +167,17 @@
 * [Untitled](math/untitled-1.md)
 * [Untitled](math/untitled-2.md)
 
+## MATRIX
+
+* [Untitled](matrix/untitled-7.md)
+* [Untitled](matrix/untitled-6.md)
+* [Untitled](matrix/untitled-5.md)
+* [Untitled](matrix/untitled-4.md)
+* [Untitled](matrix/untitled-3.md)
+* [Untitled](matrix/untitled-2.md)
+* [Untitled](matrix/untitled-1.md)
+* [1380. Lucky Numbers in a Matrix \(E\)](matrix/1380.-lucky-numbers-in-a-matrix-e.md)
+* [Untitled](matrix/untitled-8.md)
+* [Untitled](matrix/untitled.md)
+* [Untitled](matrix/untitled-10.md)
+
