@@ -35,7 +35,7 @@ Output: "Qedo1ct-eeLg=ntse-T!"
 
 ### Analysis
 
-
+**Method 1**: two pointers
 
 ### Solution
 
@@ -88,14 +88,29 @@ class Solution(object):
 ```
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="Two pointers" %}
 ```python
 class Solution(object):
     def reverseOnlyLetters(self, S):
         """
         :type S: str
         :rtype: str
+        #2020-06-02
         """
+        p = 0
+        q = len(S) - 1
+        ans = list(S)
+        
+        while p < q:
+            while not S[p].isalpha() and p < q:
+                 p += 1
+            while not S[q].isalpha() and p < q:
+                 q -= 1
+            if p < q:
+                ans[p], ans[q] = ans[q], ans[p]
+            p += 1
+            q -= 1
+        return ''.join(ans)
         
 ```
 {% endtab %}
