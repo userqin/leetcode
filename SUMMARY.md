@@ -63,6 +63,7 @@
 * [Untitled](binary-search/untitled-6.md)
 * [1095. Find in Mountain Array](binary-search/1095.-find-in-mountain-array.md)
 * [1351. Count Negative Numbers in a Sorted Matrix \(E\)](binary-search/untitled.md)
+* [Untitled](binary-search/untitled-7.md)
 
 ## STACK
 
