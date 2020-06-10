@@ -43,6 +43,7 @@
 * [Untitled](array/untitled.md)
 * [Untitled](array/untitled-6.md)
 * [Untitled](array/untitled-7.md)
+* [Untitled](array/untitled-13.md)
 
 ## Two pointers
 
@@ -180,4 +181,9 @@
 * [Untitled](matrix/untitled-8.md)
 * [Untitled](matrix/untitled.md)
 * [Untitled](matrix/untitled-10.md)
+* [Untitled](untitled-2.md)
+
+## backtracking
+
+* [Backtracking](backtracking/backtracking.md)
 
