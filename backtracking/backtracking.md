@@ -14,26 +14,18 @@ Three types of problems in backtracking:
 
 ## Classical problems
 
-In leetcode, classical backtracking problems include:  
-51. N-Queens
+In leetcode, classical backtracking problems include:
 
-52. N-Queens II
-
-39. Combination Sum
-
-40. Combination Sum II
-
-216. Combination Sum III
-
-46. Permutations
-
-47. Permutations II
-
-78. Subsets
-
-90. Subsets II
-
-131. Palindrome Partitioning
+* 51. N-Queens
+* 52. N-Queens II
+* 39. Combination Sum
+* 40. Combination Sum II
+* 216. Combination Sum III
+* 46. Permutations
+* 47. Permutations II
+* 78. Subsets
+* 90. Subsets II
+* 131. Palindrome Partitioning
 
 Additionally, a complete list of backtracking problems in leetcode can be found at [this link](https://leetcode.com/tag/backtracking/)
 

@@ -9,6 +9,7 @@
 * [Problems in python](problems-in-python.md)
 * [Interesting problems](interesting-problems.md)
 * [Template](template.md)
+* [Untitled](untitled-3.md)
 
 ## Array
 
@@ -24,8 +25,6 @@
 * [56. Merge Intervals](array/56.-merge-intervals.md)
 * [88. Merge Sorted Array](array/88.-merge-sorted-array.md)
 * [Untitled](array/untitled-3.md)
-* [121. Best Time to Buy and Sell Stock \(E\)](array/121.-best-time-to-buy-and-sell-stock-e.md)
-* [122. Best Time to Buy and Sell Stock II \(E\)](array/122.-best-time-to-buy-and-sell-stock-ii-e.md)
 * [Untitled](array/untitled-8.md)
 * [283. Move Zeroes](array/283.-move-zeroes.md)
 * [Untitled](array/untitled-10.md)
@@ -159,8 +158,8 @@
 
 * [43. Multiply Strings \(M\)](math/43.-multiply-strings-m.md)
 * [67. Add Binary](math/67.-add-binary.md)
+* [204. Count Primes](math/untitled-3.md)
 * [227. Basic Calculator II \(M\)](math/untitled-4.md)
-* [Untitled](math/untitled-3.md)
 * [Untitled](math/untitled-9.md)
 * [Untitled](math/untitled-8.md)
 * [Untitled](math/untitled-7.md)
@@ -186,4 +185,14 @@
 ## backtracking
 
 * [Backtracking](backtracking/backtracking.md)
+* [Untitled](backtracking/untitled.md)
+* [Untitled](backtracking/untitled-1.md)
+
+## Greedy
+
+* [121. Best Time to Buy and Sell Stock \(E\)](greedy/121.-best-time-to-buy-and-sell-stock-e.md)
+* [122. Best Time to Buy and Sell Stock II \(E\)](greedy/122.-best-time-to-buy-and-sell-stock-ii-e.md)
+* [455. Assign Cookies](greedy/455.-assign-cookies.md)
+* [Untitled](greedy/untitled-2.md)
+* [Untitled](greedy/untitled-1.md)
 

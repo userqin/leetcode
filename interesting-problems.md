@@ -2,6 +2,8 @@
 
 ## 443. String Compression \(E\)
 
+## [942. DI String Match \(E\)](https://leetcode.com/problems/di-string-match/)
+
 ## 1380.Lucky Numbers in a Matrix \(E\)
 
 * find the max in each row of a matrix
