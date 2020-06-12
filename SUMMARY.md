@@ -93,7 +93,7 @@
 
 * [Hashmap](hashmap-1/hashmap.md)
 * [Untitled](hashmap-1/untitled-1.md)
-* [Untitled](hashmap-1/untitled.md)
+* [290. Word Pattern](hashmap-1/untitled.md)
 
 ## Binary tree
 
