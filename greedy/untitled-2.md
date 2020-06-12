@@ -46,7 +46,7 @@ Explanation: robot will be stuck at (1, 4) before turning left and going to (1, 
 
 According to the problem description:
 
-**Method I & II: simulation**
+**Method I: simulation**
 
 * initial position of the robot is at \(0,0\)  and faces north;
 * if `command = -1`, turn right;
@@ -62,6 +62,10 @@ The key to solve this problem is to simulate the steps listed above and check fo
 * **have to use set\(\) to remove duplicates in obstacles! Otherwise it will get TLE error.**
 *  **-2: turn 90 degrees to the left ——** `dir = (dir -1)%4`**;** 
 *  **-1: turn 90 degrees to the right ——`dir = (dir + 1)%4`;** 
+
+**Method II: simulation**
+
+The idea is to create an array to store `up`, `right`, `down` and `left`. Then through a traversal record  the direction the robot is facing \(that is, take  **the mode of** 4\).
 
 **Method III: use dictionary in the simulation**
 
@@ -126,13 +130,28 @@ class Solution(object):
         :type obstacles: List[List[int]]
         :rtype: int
         """
-        directions = {'up':{0:[0,1], -1:'right', -2:'left'},
-                      'down':{0:[0,-1], -1:'left', -2:'right'},
-                      'left':{0:[-1,0], -1:'up', -2:'down'},
-                      'right':{0:[1,0], -1:'down', -2:'up'}
-                      }
-       
+        d = [(0,1), (1,0), (0,-1), (-1, 0)]
+        res = 0
+        direc = 0
+        x, y = 0, 0
+        ob = set(map(tuple, obstacles))
+        for cmd in commands:
+            if cmd == -1:
+                direc += 1
+            elif cmd == -2:
+                direc -= 1
+            else:
+                for i in range(1, cmd+1):
+                    x += d[direc%4][0]
+                    y += d[direc%4][1]
+                    if (x, y) in ob:
+                        break
+                    
+            res = max(res, x**2 + y**2)
+        return res       
 ```
+
+>
 {% endtab %}
 
 {% tab title="Use dictionary" %}
@@ -144,7 +163,33 @@ class Solution(object):
         :type obstacles: List[List[int]]
         :rtype: int
         """
+        directions = {'up':  {0:[0,1], -1:'right', -2:'left'},
+                      'down': {0:[0,-1], -1:'left', -2:'right'},
+                      'left': {0:[-1,0], -1:'up', -2:'down'},
+                      'right': {0:[1,0], -1:'down', -2:'up'}
+                      }
+        obstaclesSet = set(map(tuple, obstacles))
         
+        curr_dir = 'up' # current direction
+        coord = [0,0] # current coordinates
+        res = 0
+        
+        for cmd in commands:
+            if cmd < 0:
+                curr_dir = directions[curr_dir][cmd]
+            else:
+                for i in range(1, cmd+1):
+                    x, y = coord[0], coord[1]
+                    x += directions[curr_dir][0][0]
+                    y += directions[curr_dir][0][1]
+                    if (x, y) in obstaclesSet:
+                        break
+                    coord = [x, y]
+                res = max(res, coord[0]**2 + coord[1]**2)
+        return res
+        
+    #another way treat the obstacle encounter problem see method II
+                                    
 ```
 {% endtab %}
 
