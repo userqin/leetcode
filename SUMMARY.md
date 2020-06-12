@@ -194,6 +194,7 @@
 
 * [121. Best Time to Buy and Sell Stock \(E\)](greedy/121.-best-time-to-buy-and-sell-stock-e.md)
 * [122. Best Time to Buy and Sell Stock II \(E\)](greedy/122.-best-time-to-buy-and-sell-stock-ii-e.md)
+* [392. Is Subsequence](greedy/392.-is-subsequence.md)
 * [455. Assign Cookies](greedy/455.-assign-cookies.md)
 * [874. Walking Robot Simulation](greedy/untitled-2.md)
 * [Untitled](greedy/untitled-1.md)
