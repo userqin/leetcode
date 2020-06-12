@@ -1,44 +1,6 @@
-# Untitled
+# Binary search problems
 
-### Problem link
+\*\*\*\*[**392. Is Subsequence**](https://leetcode.com/problems/is-subsequence/submissions/) **\(E\)**
 
-### Problem statement
-
-### Analysis
-
-### Solution
-
-{% tabs %}
-{% tab title="Python" %}
-```python
-
-```
-{% endtab %}
-
-{% tab title="" %}
-```python
-
-```
-{% endtab %}
-
-{% tab title="" %}
-```python
-
-```
-{% endtab %}
-
-{% tab title="" %}
-```python
-
-```
-{% endtab %}
-
-{% tab title="" %}
-```python
-
-```
-{% endtab %}
-{% endtabs %}
-
-### References
+\*\*\*\*
 

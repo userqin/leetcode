@@ -55,7 +55,7 @@
 
 ## Binary search
 
-* [Untitled](binary-search/untitled-2.md)
+* [Binary search problems](binary-search/untitled-2.md)
 * [Untitled](binary-search/untitled-1.md)
 * [162. Find Peak Element](binary-search/162.-find-peak-element.md)
 * [658. Find K Closest Elements](binary-search/658.-find-k-closest-elements.md)
